@@ -1,1 +1,1 @@
-this is are projects on pointer and arrays in c
+Added: C - More pointers, arrays and strings
